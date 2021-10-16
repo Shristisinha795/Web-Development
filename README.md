@@ -8,6 +8,8 @@ My Personal Website hosted on netlify.
 - javascript
 - json (javascript object notation ).
 - npm (node package manager).
+- react js
+- javascript
 
 **Additional Requirements**
 - Google Fonts.
